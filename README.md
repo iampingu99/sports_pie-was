@@ -178,9 +178,3 @@
 |                                           BE                                                |                                             BE                                              |                                             BE                                              |
 |                    Jinhak Kim<br/>[@nurugji](https://github.com/nurugji)                    |                   HyeonjunOh<br/>[@HynnJnn](https://github.com/HyeonjunOh)                  |                 Jinwoo Lee<br/>[@jinlee1703](https://github.com/jinlee1703)                 |
 
-## 🔗 Etc
-
-- [Front-End]()
-- [Back-End](https://github.com/YU-PLAYER/sportspie-was)
-- [IaC]()
-
