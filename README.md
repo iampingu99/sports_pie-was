@@ -1,3 +1,7 @@
+[![Web](https://img.shields.io/badge/Repository/Web-blue?style=flat-square&logo=react&logoColor=white)](https://github.com/YU-PLAYER/sportspie-web)
+[![Was](https://img.shields.io/badge/Repository/Was-green?style=flat-square&logo=springBoot&logoColor=white)](https://github.com/YU-PLAYER/sportspie-was)
+[![IaC](https://img.shields.io/badge/Repository%2FIaC-purple?style=flat-square&logo=Terraform&logoColor=white)](https://github.com/YU-PLAYER/sportspie-terraform)
+
 <p align="center">
   <img width="241" height="295" alt="Frame 427318938" src="https://github.com/user-attachments/assets/e708a7b7-affc-4161-bb58-6d5e782fb40c" />
 </p>
@@ -161,11 +165,10 @@
 
 ## 🛠️ TECH
 
-| Category                 | Details                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-|--------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Language & Framework** | <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">                                                                                                                                                                                                                                                        |
-| **Database**             | <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">                                                                                                                                                                                                                                                                                                                                                                     |
-| **Communication**        | <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">                                                                                                                                                                                                                                                        |
+| Category               | Stacks |
+|------------------------|--------|
+| **Back-end**           | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white) |
+| **ETC** | ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white) |                                                                                                                                                                                                                                                    |
 
 
 ## 🫂 Workers
@@ -177,7 +180,7 @@
 
 ## 🔗 Etc
 
-- [Front-End](https://github.com/YU-PLAYER/sportspie-web)
+- [Front-End]()
 - [Back-End](https://github.com/YU-PLAYER/sportspie-was)
-- [IaC](https://github.com/YU-PLAYER/sportspie-terraform)
+- [IaC]()
 
